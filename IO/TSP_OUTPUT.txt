@@ -1,0 +1,2 @@
+Num. of Vertices : Cost inMatrix Form : 
+OPT Cost: 16
